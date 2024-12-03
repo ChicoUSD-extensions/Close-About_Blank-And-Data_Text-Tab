@@ -12,6 +12,6 @@
    "manifest_version": 3,
    "name": "Close 'About:Blank' & 'Data:Text' Tabs",
    "permissions": [ "tabs", "activeTab" ],
-   "update_url": "https://clients2.google.com/service/update2/crx",
+   "update_url": "https://github.com/ChicoUSD-extensions/Close-About_Blank-And-Data_Text-Tab",
    "version": "1.0"
 }
